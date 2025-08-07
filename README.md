@@ -1,4 +1,4 @@
-[English](README_en.md)
+[Inglês](README_en.md)
 # 📚 Projetos Integrados — 2025
 
 Este repositório reúne todos os **Projetos Integrados** passados pelos professores ao longo do ano.  
